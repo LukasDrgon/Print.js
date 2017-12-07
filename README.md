@@ -9,7 +9,7 @@ A tiny javascript library to help printing from the web.
 
 ## Installation
 
-You install via npm, yarn or use the [Print.js CDN](http://printjs.crabbly.com/#cdn) links available on the documentation page.
+You install via npm, yarn, [jsDelivr CDN](https://www.jsdelivr.com/package/npm/print.js) or use the [Print.js CDN](http://printjs.crabbly.com/#cdn) links available on the documentation page.
 
 To install via npm:
 
@@ -21,6 +21,13 @@ To install via yarn:
 
 ```bash
 yarn add print-js
+```
+
+To install via jsDelivr CDN:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/print.js@1/dist/print.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/print.js@1/dist/print.min.css">
 ```
 
 ## Documentation
